@@ -1,12 +1,12 @@
-# 🧑‍💼 HR Employee Attrition Analysis
+# HR Employee Attrition Analysis
 
-## 🔍 Project Overview
+##  Project Overview
 This project focuses on analyzing employee attrition data to identify key factors influencing employee turnover.  
 It follows an **end-to-end data analytics workflow** using **Python, Excel, SQL, and Power BI** to generate meaningful business insights for HR decision-making.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Analyze employee attrition trends  
 - Identify departments, job roles, and salary slabs with high attrition  
 - Understand the impact of age, gender, and experience on attrition  
@@ -14,7 +14,7 @@ It follows an **end-to-end data analytics workflow** using **Python, Excel, SQL,
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - **Python (Pandas, NumPy)** – Data cleaning and feature creation  
 - **Excel** – Pivot tables and percentage-based analysis  
 - **SQL** – Aggregations and analytical queries  
@@ -22,7 +22,7 @@ It follows an **end-to-end data analytics workflow** using **Python, Excel, SQL,
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ### 1️⃣ Data Collection
 - Imported raw HR employee dataset  
@@ -54,7 +54,7 @@ It follows an **end-to-end data analytics workflow** using **Python, Excel, SQL,
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Overall attrition rate is approximately **16%**  
 - Higher attrition observed in **lower salary slabs**  
 - Employees with **less experience** show higher attrition  
@@ -63,7 +63,7 @@ It follows an **end-to-end data analytics workflow** using **Python, Excel, SQL,
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 - Improve compensation strategies for lower salary bands  
 - Strengthen onboarding and engagement programs for new hires  
 - Focus retention strategies on high-attrition roles  
@@ -84,7 +84,7 @@ HR-Employee-Attrition-Analysis/
 
 ---
 
-## ✅ Outcome
+##  Outcome
 This project demonstrates:
 - End-to-end data analytics execution  
 - Strong understanding of HR metrics  
@@ -93,8 +93,9 @@ This project demonstrates:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Shaik Kashida Jabeen**  
 🎓 Electronics and Communication Engineering  
 💼 Aspiring Data Analyst  
+
 
